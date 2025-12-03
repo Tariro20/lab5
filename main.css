@@ -1,10 +1,9 @@
-#flex-container{display:flex-wrap;flex-wrap:wrap;gap: 20px;}
-flex-container{display:flex;flex-direction:row;}
+#flex-container{display:flex;flex-direction:row;}
 h1{color:rgb(4, 4, 88);font-size:35px}
 p{color:rgb(76, 23, 31);font-size:20px;text-align: center;}
 body{background-color:#fcf3fa;}
-h2{color:rgb(4, 4, 88);font-size:35px}
-h3{color:rgb(4, 4, 88);font-size:35px}
+h2{color:rgb(4, 4, 88);font-size:35px;text-align: center}
+h3{color:rgb(4, 4, 88);font-size:35px;text-align: center}
 ul{color: red; font-size:14px;background-color:white}
 ol{color: red; font-size:14px;background-color:white}
 header{font-size:20px;background-color:lavender}
